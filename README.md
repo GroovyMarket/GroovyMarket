@@ -1,6 +1,6 @@
 # 🧠 Decentralized Prediction Market (Polymarket-style)
 
-This is an open-source codebase for a decentralized prediction market platform, similar to Polymarket.
+This is the open-source codebase of **Groovy Market**, a decentralized prediction market platform inspired by Polymarket.
 
 ## 🔧 Features
 
@@ -21,3 +21,23 @@ Perfect starting point for:
 - Web3 prediction markets
 - Gamified DeFi platforms
 - Blockchain-based betting systems
+
+## 🛠 Tech Stack
+
+- Solidity / Hardhat
+- React / Next.js
+- Ethers.js / Web3
+- The Graph (optional)
+- IPFS / Pinata (optional)
+
+## 🚀 Quick Start
+
+```bash
+# Install dependencies
+npm install
+
+# Run frontend locally
+npm run dev
+
+# Compile smart contracts
+npx hardhat compile
