@@ -1,34 +1,50 @@
-# 🧠 Decentralized Prediction Market (Polymarket-style)
+# 🦄 Groovy Market – Decentralized Prediction Market (Polymarket-style)
 
-This is the open-source codebase of **Groovy Market**, a decentralized prediction market platform inspired by Polymarket.
+**Groovy Market (GM)** is a user-generated prediction market protocol where anyone can create and participate in markets predicting future events. Whether it's a single-event market or a multi-topic parlay, GM provides the tools to profit from knowledge and insights.
 
-## 🔧 Features
+Built on the foundation of well-established platforms like Polymarket, Groovy Market expands the ways people can stay informed, engage in predictions, and monetize their foresight.
 
-- Create and trade prediction markets
-- Resolve markets using oracle input
-- Intuitive and responsive frontend
-- Smart contracts integrated with the frontend
+---
 
-## 📌 Status
+## 🔍 How It Works
 
-- Approximately 90% complete
-- Core features are working
-- Some UI polishing and testing still needed
+Groovy Market enables users to:
 
-## 💡 Use Cases
+- 🧠 **Create** prediction markets and parlays  
+- ✅ **Trade** Yes/No shares based on market outcomes  
+- 💰 **Earn** by being right or by launching popular markets  
 
-Perfect starting point for:
-- Web3 prediction markets
-- Gamified DeFi platforms
-- Blockchain-based betting systems
+This protocol puts power in the hands of the community. Participants become both traders and creators — scaling their ability to earn by leveraging both their ideas and market activity.
 
-## 🛠 Tech Stack
+---
 
-- Solidity / Hardhat
-- React / Next.js
-- Ethers.js / Web3
-- The Graph (optional)
-- IPFS / Pinata (optional)
+## ✨ Key Features
+
+- 🎯 **User-Generated Markets** – Any user can create a prediction market on any topic  
+- 📊 **Parlays (Cumulative Predictions)** – Soon, users can bundle multiple predictions into a single bet  
+- 🏦 **Be the House** – Market creators earn a share of trading volume generated in their markets  
+
+---
+
+## 🌐 Why Sei Network?
+
+Groovy Market is built on **Sei Network**, which offers:
+
+- ⚡ **Super-fast transactions** with low latency  
+- 🔐 **Robust security and transparency** for fair, trustless trading  
+- 🌍 **Global accessibility**, enabling participation from nearly anywhere (see Terms for geo-restrictions)  
+
+---
+
+## 🔧 Tech Stack
+
+- **Smart Contracts:** Solidity, Hardhat  
+- **Frontend:** React, Next.js  
+- **Blockchain Interaction:** Ethers.js, Web3.js  
+- **Indexing (optional):** The Graph  
+- **Storage (optional):** IPFS, Pinata  
+
+---
 
 ## 🚀 Quick Start
 
